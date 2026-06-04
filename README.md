@@ -227,16 +227,20 @@ giving the billing team a chance to correct high-risk claims proactively.
 ## Dashboard Preview
 
 ### Page 1 — Problem Scale
-![Problem Scale](dashboard/screenshots/page1_problem_scale.png)
+<img width="1236" height="679" alt="Problem Scale" src="https://github.com/user-attachments/assets/e9a09a72-8e7c-4edf-99e4-52eddb465f07" />
+
 
 ### Page 2 — Where Is It Concentrated?
-![Where Concentrated](dashboard/screenshots/page2_where_concentrated.png)
+<img width="1211" height="682" alt="Where Is It Concentrated?" src="https://github.com/user-attachments/assets/560cf116-d1db-46e3-b61d-2b97501fe991" />
+
 
 ### Page 3 — What Is It Costing Us?
-![What Is It Costing](dashboard/screenshots/page3_what_costing_us.png)
+<img width="1210" height="682" alt="What Is It Costing Us?" src="https://github.com/user-attachments/assets/42ec281d-9fc5-4a1b-a400-facace0ca552" />
+
 
 ### Page 4 — Denial Prediction Model
-![Denial Prediction](dashboard/screenshots/page4_denial_prediction.png)
+<img width="1217" height="678" alt="Denial Prediction Model" src="https://github.com/user-attachments/assets/5460ef0a-c81c-4871-986e-1d2c3ab3dbb3" />
+
 
 ---
 
