@@ -74,45 +74,6 @@ A machine learning extension then answers a fourth question:
 
 ---
 
-## Project Structure
-
-```
-novacare-claims-denial-analysis/
-│
-├── data/
-│   ├── novacare_claims_raw.csv          # Original raw dataset
-│   ├── claims_clean.csv                 # SQL stage output (25 columns)
-│   └── claims_output.csv               # Python stage output (30 columns)
-│
-├── sql/
-│   ├── NOVACARE_CLAIMS_SQL_FINAL.sql    # Primary team submission
-│   ├── claims_clean_experiment.sql      # Extended version with median imputation
-│   └── Clean_claims.sql                # Supplementary analytical queries
-│
-├── python/
-│   ├── stage_2_analysis/
-│   │   ├── novacare_claims_analysis_local.ipynb
-│   │   ├── novacare_claims_analysis_colab.ipynb
-│   │   └── novacare_claims_analysis_postgresql.ipynb
-│   │
-│   └── stage_3_denial_prediction/
-│       ├── novacare_denial_prediction_final.ipynb
-│       ├── novacare_denial_prediction_extended.ipynb
-│       └── novacare_denial_prediction_postgresql.ipynb
-│
-├── dashboard/
-│   └── screenshots/
-│       ├── page1_problem_scale.png
-│       ├── page2_where_concentrated.png
-│       ├── page3_what_costing_us.png
-│       └── page4_denial_prediction.png
-│
-└── docs/
-    └── NovaCare_Project_Documentation.docx
-```
-
----
-
 ## Data Cleaning
 
 The raw dataset had not been cleaned since extraction. All cleaning was performed in
