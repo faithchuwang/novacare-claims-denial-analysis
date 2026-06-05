@@ -12,7 +12,6 @@ Dataverse Africa Cohort 4.0 Healthcare Data Analytics Track.
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Project Structure](#project-structure)
 - [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
 - [Denial Prediction Model](#denial-prediction-model)
